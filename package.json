@@ -1,0 +1,30 @@
+{
+  "name": "is-valid-password",
+  "version": "0.0.1",
+  "description": "Validate password",
+  "main": "is-valid-password.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-valid-password"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "password"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-valid-password/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-valid-password",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "is-valid-password",
+  "main": "is-valid-password.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-valid-password",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Validate password",
+  "keywords": [
+    "validate",
+    "validator",
+    "password"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
