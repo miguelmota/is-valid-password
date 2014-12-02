@@ -6,7 +6,7 @@ Validate password
 
 - 8-32 characters
 - at least one lowercase letter
-- at least one capital letter
+- at least one uppercase letter
 - at least 1 number
 - optional special character [!@#$%^&*]
 
@@ -22,6 +22,7 @@ npm install is-valid-password
 var isValidPassword = require('is-valid-password');
 
 isValidPassword('dfE3kds#$%') // true
+isValidPassword('dfE3kds4dD') // true
 isValidPassword('345dsasdff') // false
 isValidPassword('34543455') // false
 isValidPassword('ahjklDDf') // false
