@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/miguelmota/is-valid-password",
   "dependencies": {
-    "tape": "^3.0.3"
+    "tape": "^5.3.1"
   }
 }
